@@ -9,7 +9,7 @@ import genetic_group as ga
 import preprocess_data as predata
 import time
 
-GROUP_SIZE = 2
+GROUP_SIZE = 3
 MAX_SCORE = 10.0
 
 input_dir = 'PPL_sample'
